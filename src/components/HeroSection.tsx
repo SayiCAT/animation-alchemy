@@ -20,15 +20,15 @@ const HeroSection = () => {
             transition={{ delay: 0.3 }}
             className="inline-block px-4 py-1.5 rounded-full bg-primary-foreground/20 text-primary-foreground font-display text-sm mb-6 backdrop-blur-sm border border-primary-foreground/10"
           >
-            ✨ Estudio Creativo de Animación
+            ✨ Animación con Propósito Bíblico
           </motion.span>
           <h1 className="text-5xl md:text-7xl font-display font-bold text-primary-foreground mb-6 leading-tight">
-            Damos Vida a
+            Historias Bíblicas
             <br />
-            <span className="text-accent">Tus Ideas</span>
+            <span className="text-accent">Cobran Vida</span>
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/80 font-body mb-10 max-w-2xl leading-relaxed">
-            Somos un estudio especializado en animación 2D y 3D. Transformamos conceptos en historias visuales que cautivan y emocionan.
+            Somos un estudio especializado en animación 2D y 3D que da vida a las historias de la Biblia. Transformamos las escrituras en experiencias visuales que inspiran, educan y fortalecen la fe.
           </p>
           <div className="flex flex-wrap gap-4">
             <motion.a
