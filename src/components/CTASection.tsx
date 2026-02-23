@@ -22,10 +22,10 @@ const CTASection = () => {
           className="max-w-2xl mx-auto text-center"
         >
           <h2 className="text-4xl md:text-5xl font-display font-bold text-primary-foreground mb-6">
-            ¿Listo para Animar tu Proyecto?
+            ¿Listo para Dar Vida a una Historia Bíblica?
           </h2>
           <p className="text-xl text-primary-foreground/80 mb-10 leading-relaxed">
-            Cuéntanos tu idea y juntos crearemos algo extraordinario. Nuestro equipo está listo para dar vida a tu visión.
+            Cuéntanos qué historia de la Biblia quieres animar y juntos crearemos algo que inspire y transforme. Nuestro equipo está listo para dar vida a tu visión.
           </p>
           <motion.a
             href="mailto:contacto@estudioanima.com"

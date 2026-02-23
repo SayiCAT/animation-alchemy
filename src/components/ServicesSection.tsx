@@ -49,7 +49,7 @@ const ServicesSection = () => {
           </h2>
           <div className="w-16 h-1 bg-primary mx-auto mb-6 rounded-full" />
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Ofrecemos soluciones completas de animación para llevar tu visión creativa al siguiente nivel.
+            Ofrecemos soluciones completas de animación para llevar las historias bíblicas al siguiente nivel.
           </p>
         </motion.div>
 
