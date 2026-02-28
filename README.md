@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
+```markdown
+# Proyecto: Estudio de Animacion cristiana
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 1. Información General
 
-## How can I edit this code?
+**Nombre del proyecto:**  
+Sudio 70T7  
 
-There are several ways of editing your application.
+**Nombre del estudiante:**  
+[Sara Higuera]  
 
-**Use Lovable**
+**Fecha:**  
+[28/02/2026]  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+**Curso:**  
+[Calidad servicio de software 3]  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 2. Descripción del Proyecto
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### ¿Qué hace el proyecto?
+Este proyecto consiste en una invitacion para personas o estudios pequeños que quieran enfocarse en crear animaciones con fines cristianos, tales como mostrar historias de la biblia dando un enfoque mas facil de entender.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### ¿Qué problema soluciona?
+Se busca ofrecer contenido animado con principios cristianos que pueda ser utilizado como herramienta educativa, evangelística y de entretenimiento sano,asi mismo se busca facilitar el entendimiento de ciertas historias biblicas que pueden ser algo complicadas de entender o se pueden malinterpretar para niños u adultos. Facilita que iglesias, ministerios y familias encuentren un estudio especializado en este tipo de producciones y tambien se buscar darle accesibilidad a las personas que no cuenten con ciertos recursos o experiencia para poder empezar en un estudio tan profesional pero que quieran aportar algo al conocimiento cristiano.
 
-Follow these steps:
+### ¿Para quién está pensado?
+Dirigido a:
+- Iglesias y ministerios cristianos.
+- Instituciones educativas cristianas.
+- Familias que buscan contenido con valores.
+- Organizaciones que desean producir aimaciones con mensaje cristiano.
+- Niños y adolescentes 
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 3. Tecnologías Utilizadas
 
-# Step 3: Install the necessary dependencies.
-npm i
+- HTML  
+- React 
+- TypeScript
+-Vite 
+-Tailwind CSS 
+-PostCSS 
+-Vitest
+- Git y GitHub  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+---
+
+## 4. Estructura del Proyecto
+
 ```
 
-**Edit a file directly in GitHub**
+/animation-alchemy
+ ├── public/
+ │   ├── favicon.ico
+ │   ├── placeholder.svg
+ │   └── robots.txt
+ │
+ ├── src/
+ │   ├── assets/
+ │   ├── components/
+ │   ├── hooks/
+ │   ├── lib/
+ │   ├── pages/
+ │   ├── test/
+ │   ├── App.css
+ │   ├── App.tsx
+ │   ├── index.css
+ │   ├── main.tsx
+ │   └── vite-env.d.ts
+ │
+ ├── .gitignore
+ ├── components.json
+ ├── eslint.config.js
+ ├── index.html
+ ├── package.json
+ ├── postcss.config.js
+ ├── README.md
+ ├── tailwind.config.ts
+ ├── tsconfig.app.json
+ ├── tsconfig.json
+ ├── tsconfig.node.json
+ ├── vite.config.ts
+ └── vitest.config.ts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Descripción Adicional
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
+```
