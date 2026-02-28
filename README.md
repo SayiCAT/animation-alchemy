@@ -72,7 +72,10 @@ Dirigido a:
  │   ├── components/
  │   ├── hooks/
  │   ├── lib/
- │   ├── pages/
+ │   ├── screenshots/
+ │   │   ├── inicio.png
+ │   │   ├── contacto.png
+ │   │   └── servicios.png
  │   ├── test/
  │   ├── App.css
  │   ├── App.tsx
@@ -101,18 +104,12 @@ Dirigido a:
 
 El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
 
-
 ## Vista del Proyecto
 
-![Inicio](inicio.png)
+![Inicio](Inicio.png)
 
-![Contacto](contacto.png)
+![Contacto](Contacto.png)
 
-![Servicios](servicios.png)
+![Servicios](Servicios.png)
 
 ```
-
-
-
-
-
