@@ -61,7 +61,6 @@ Dirigido a:
 ## 4. Estructura del Proyecto
 
 ```
-
 /animation-alchemy
  ├── public/
  │   ├── favicon.ico
