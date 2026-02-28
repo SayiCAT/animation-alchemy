@@ -22,10 +22,18 @@ Sudio 70T7
 ## 2. Descripción del Proyecto
 
 ### ¿Qué hace el proyecto?
-Este proyecto consiste en una invitacion para personas o estudios pequeños que quieran enfocarse en crear animaciones con fines cristianos, tales como mostrar historias de la biblia dando un enfoque mas facil de entender.
+Este proyecto consiste en una invitacion para personas o estudios pequeños
+que quieran enfocarse en crear animaciones con fines cristianos, tales como mostrar historias de la
+biblia dando un enfoque mas facil de entender.
 
 ### ¿Qué problema soluciona?
-Se busca ofrecer contenido animado con principios cristianos que pueda ser utilizado como herramienta educativa, evangelística y de entretenimiento sano,asi mismo se busca facilitar el entendimiento de ciertas historias biblicas que pueden ser algo complicadas de entender o se pueden malinterpretar para niños u adultos. Facilita que iglesias, ministerios y familias encuentren un estudio especializado en este tipo de producciones y tambien se buscar darle accesibilidad a las personas que no cuenten con ciertos recursos o experiencia para poder empezar en un estudio tan profesional pero que quieran aportar algo al conocimiento cristiano.
+Se busca ofrecer contenido animado con principios cristianos que pueda ser utilizado como herramienta educativa,
+evangelística y de entretenimiento sano,
+asi mismo se busca facilitar el entendimiento de ciertas
+historias biblicas que pueden ser algo complicadas de entender o se pueden malinterpretar para niños u adultos. Facilita que iglesias,
+ministerios y familias encuentren un estudio especializado en este tipo de producciones
+y tambien se buscar darle accesibilidad a las personas que no cuenten con ciertos recursos
+o experiencia para poder empezar en un estudio tan profesional pero que quieran aportar algo al conocimiento cristiano.
 
 ### ¿Para quién está pensado?
 Dirigido a:
