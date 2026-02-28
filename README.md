@@ -107,14 +107,21 @@ El estudio de animación tiene como misión transmitir mensajes de fe, esperanza
 
 ## Vista del Proyecto
 
-![ANIMATION-ALCHEMY](Inicio.png)
 
-![ANIMATION-ALCHEMY](Contacto.png)
+---
 
-![ANIMATION-ALCHEMY](Servicios.png)
+## Descripción Adicional
 
+El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
+
+
+## Vista del Proyecto
+
+![Inicio](images/Inicio.png)
+![Inicio](images/Servicios.png)
+![Inicio](images/Contacto.png)
 ```
-```
+
 
 
 
