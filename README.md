@@ -6,7 +6,7 @@
 ## 1. Información General
 
 **Nombre del proyecto:**  
-Sudio 70T7  
+Studio 70T7  
 
 **Nombre del estudiante:**  
 [Sara Higuera]  
@@ -50,10 +50,10 @@ Dirigido a:
 - HTML  
 - React 
 - TypeScript
--Vite 
+- Vite 
 -Tailwind CSS 
 -PostCSS 
--Vitest
+- Vitest
 - Git y GitHub  
 
 ---
@@ -101,4 +101,13 @@ Dirigido a:
 ## Descripción Adicional
 
 El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
+
+## Vista del Proyecto
+
+<img src="URL_DE_LA_IMAGEN" width="600">
+
+<img src="URL_DE_LA_IMAGEN" width="600">
+
+<img src="URL_DE_LA_IMAGEN" width="600">
+
 ```
