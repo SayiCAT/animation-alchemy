@@ -108,13 +108,16 @@ screenshots/
 
 ## Vista del Proyecto
 
-![Inicio](screenshots/Inicio.png)
+![Inicio](inicio.png)
 
-![Contacto](screnshots/Contacto.png)
+![Contacto](contacto.png)
 
-![Servicios](screenshots/Servicios.png)
+![Servicios](servicios.png)
+
+
 
 ```
+
 
 
 
