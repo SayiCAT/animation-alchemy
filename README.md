@@ -107,21 +107,14 @@ El estudio de animación tiene como misión transmitir mensajes de fe, esperanza
 
 ## Vista del Proyecto
 
-
----
-
-## Descripción Adicional
-
-El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
-
-
-## Vista del Proyecto
-
 ![Pantalla principal](assets/Inicio.png)
+
 ![Contactenos](assets/Contacto.png)
+
 ![Servicios de la pagina](assets/Servicios.png)
 
 ```
+
 
 
 
