@@ -106,7 +106,7 @@ El estudio de animación tiene como misión transmitir mensajes de fe, esperanza
 
 ## Vista del Proyecto
 
-![Inicio](Inicio.png)
+![Inicio](main/Inicio.png)
 
 ![Contacto](contacto.png)
 
@@ -114,3 +114,4 @@ El estudio de animación tiene como misión transmitir mensajes de fe, esperanza
 
 
 ```
+
