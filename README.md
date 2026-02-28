@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Información General
+## . Información General
 
 **Nombre del proyecto:**  
 Studio 70T7  
@@ -19,7 +19,7 @@ Studio 70T7
 
 ---
 
-## 2. Descripción del Proyecto
+## . Descripción del Proyecto
 
 ### ¿Qué hace el proyecto?
 Este proyecto consiste en una invitacion para personas o estudios pequeños
@@ -45,7 +45,7 @@ Dirigido a:
 
 ---
 
-## 3. Tecnologías Utilizadas
+## . Tecnologías Utilizadas
 
 - HTML  
 - React 
@@ -58,7 +58,7 @@ Dirigido a:
 
 ---
 
-## 4. Estructura del Proyecto
+## . Estructura del Proyecto
 
 ```
 /animation-alchemy
@@ -113,7 +113,38 @@ El estudio de animación tiene como misión transmitir mensajes de fe, esperanza
 
 ![Servicios de la pagina](assets/Servicios.png)
 
+## Para que sirven los archivos
+
+index.html Es el archivo central del proyecto. Proporciona la estructura básica de la página web y vincula los estilos y scripts necesarios.
+css/ Directorio que alberga los archivos de estilos del proyecto. Establece colores, animaciones, diseño adaptable y efectos visuales. Asegura que la página luzca moderna y atractiva.
+js/ Directorio que contiene los archivos JavaScript. Gestiona la lógica del proyecto. Administra animaciones dinámicas y las interacciones del usuario.
+assets/ Almacena imágenes, íconos u otros recursos multimedia utilizados en la aplicación.
+
+## funciones básicas del proyecto:
+
+Interacción con el usuario: El usuario puede interactuar con botones o elementos que activan animaciones o cambios visuales.
+ Diseño adaptativo:La página se ajusta a las diversas dimensiones de pantalla (de computadora, tablet o celular).
+Navegación intuitiva: Un diseño nítido que facilita la comprensión por parte del usuario de cómo usar la aplicación.
+Efectos visuales personalizados:Uso de transiciones, transformaciones y efectos especiales para mejorar la experiencia visual.
+ Animaciones en movimiento: Se usan animaciones visuales con CSS y/o JavaScript para crear efectos llamativos en los elementos.
+
+##Cómo ejecutar el proyecto
+
+-Descargar o clonar el repositorio desde GitHub.
+
+-Abrir la carpeta del proyecto en el computador 
+
+-Buscar el archivo index.html.
+
+-Hacer doble clic en index.html y abrirlo en el navegador.
+
+## Mejoras futuras
+
+Opino que entre las mejoras futuras para el proyecto podrian estar el añadir mas opciones para que la pagina sea mas interactiva
+añadir formularios y link directo para el contacto
+un link especifico para una cotizacion o un plan de lo que se puede ver en la empresa.
 ```
+
 
 
 
