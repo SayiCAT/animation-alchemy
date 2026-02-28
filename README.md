@@ -102,9 +102,9 @@ Dirigido a:
 El estudio de animación tiene como misión transmitir mensajes de fe, esperanza y amor a través de historias animadas creativas y de alta calidad visual, utilizando herramientas tecnológicas modernas para lograr un impacto positivo en la audiencia.
 
 screenshots/
- ├── inicio.png
- ├── contacto.png
- └── servicios.png
+ ├── Inicio.png
+ ├── Contacto.png
+ └── Servicios.png
 
 ## Vista del Proyecto
 
@@ -115,5 +115,6 @@ screenshots/
 ![Servicios](screenshots/Servicios.png)
 
 ```
+
 
 
